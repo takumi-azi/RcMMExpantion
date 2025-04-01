@@ -1,0 +1,4 @@
+name: Rc_mm_expantion
+version: '${project.version}'
+main: takumi3s.rc_mm_expantion.Rc_mm_expantion
+api-version: 1.21
